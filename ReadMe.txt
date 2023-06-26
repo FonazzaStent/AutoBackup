@@ -16,7 +16,7 @@ AutoBackup 1.0.1 - An extremely simple file backup program.
 
 ----------------------------------
 Description:
-The purpose of the program is to create automatically incremental backup copies of files that get accessed and updated continuously when working at a project. Examples may include spreadsheets, code scripts, word processing documents, music creation files.
+The purpose of the program is to create automatically backup copies of files that get accessed and updated continuously when working at a project. Examples may include spreadsheets, code scripts, word processing documents, music creation files.
 
 Instructions:
 - Copy to your project folder, to the desktop or to any other folder the Windows executable file or the Python script (if you have Python installed) .
