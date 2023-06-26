@@ -1,4 +1,4 @@
-AutoBackup 1.0.1 - An extremely simple automatic file backup program.
+AutoBackup 1.0.1 - An extremely simple file backup program.
     Copyright (C) 2022  Fonazza-Stent
 
     This program is free software: you can redistribute it and/or modify
